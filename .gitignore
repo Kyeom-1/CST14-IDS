@@ -7,10 +7,6 @@ env/
 __pycache__/
 *.pyc
 
-# Model / large files (optional but recommended)
-*.pkl
-*.joblib
-
 # Streamlit cache
 .streamlit/
 
